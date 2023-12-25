@@ -73,6 +73,7 @@
   display: block;
   text-align: right;
   margin-right: 18px;
+  margin-bottom: 120px;
 }
 
 .letter-spacing-extended {
@@ -93,3 +94,49 @@
   margin-left: 9px;
   margin-right: 9px;
 }
+
+.overlay{
+  position: absolute;
+  z-index: 0;
+  width: 1082px;
+  height: 744px;
+  background-color: #000;
+  opacity: 0.6;
+}
+
+.cover__description-text{
+  display: inline;
+  color: #FFF;
+  text-align: center;
+  font-family: Raleway;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px; /* 127.273% */
+  text-transform: uppercase;
+  margin-left: 80px;
+  word-spacing: 18px;
+}
+
+.bet-button{
+  z-index: 2;
+  display: inline;
+  display: inline;
+  color: #FFF;
+  text-align: center;
+  font-family: Raleway;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px; /* 127.273% */
+  text-transform: uppercase;
+  margin-left: 62px;
+  width: 252px;
+  height: 52px;
+  background:none;
+  border: 1px solid hsl(0, 0%, 100%);
+}
+
+
+
+
