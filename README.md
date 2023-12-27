@@ -1,1 +1,1 @@
-[Мой проект Марина Р. marishkapik@yandex.ru](https://github.com/PrettyBusik/ono-tebe-nado)
+[Мой проект Марина Р. marishkapik@yandex.ru](git@github.com:PrettyBusik/ono-tebe-nado)
