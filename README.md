@@ -1,1 +1,1 @@
-[https://github.com/PrettyBusik/ono-tebe-nado](https://github.com/PrettyBusik/ono-tebe-nado)
+[git@github.com:PrettyBusik/ono-tebe-nado.git](git@github.com:PrettyBusik/ono-tebe-nado)
