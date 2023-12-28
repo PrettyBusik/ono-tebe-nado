@@ -44,9 +44,9 @@
   justify-content: center;
 }
 
-.header__address a{
+.header__address a {
   text-decoration: underline;
-  text-underline-offset: 4px;
+  text-underline-offset: 5px;
 }
 
 .cover__title {
@@ -82,7 +82,7 @@
 }
 
 .letter-spacing-extended {
-padding-left: 32px;
+  padding-left: 32px;
   padding-right: 32px;
 }
 
@@ -168,16 +168,13 @@ padding-left: 32px;
   background-image: url(../images/card-lot-01.jpg);
 }
 
-
 .card_type_book {
   background-image: url(../images/card-lot-02.jpg);
- 
 }
 
 .card_type_picture {
   background-image: url(../images/card-lot-03.jpg);
 }
-
 
 .card {
   display: flex;
@@ -286,9 +283,10 @@ padding-left: 32px;
 }
 
 .footer {
-  margin: 155px 50px 0;
+  margin: 150px 50px 91px;
   display: grid;
   grid-template-columns: 237px 1fr 237px;
+  grid-template-rows: 91px;
 }
 
 .footer__address {
