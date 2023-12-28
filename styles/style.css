@@ -299,7 +299,7 @@
   line-height: 24.3px; /* 135% */
 }
 
-.footer__address a{
+.footer__address a {
   text-decoration: underline;
   text-underline-offset: 4px;
 }
